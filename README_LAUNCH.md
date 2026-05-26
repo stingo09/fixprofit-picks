@@ -20,6 +20,8 @@ card payout where available.
 5. Replace `YOURTAG-20` in `script.js`.
 6. Re-publish the site to the same PageDrop URL.
 
+Current tag installed: `fixprofitpick-20`.
+
 ## Why this route fits no bank account
 
 Amazon's Associates policies list gift card payout as a payment option for Amazon.com. That means the first payout target can be an Amazon gift card instead of a bank deposit, although Amazon may still request identity, tax, address, and account details.
