@@ -1,12 +1,13 @@
 # No-Bank Launch Plan
 
-This site is built for a no-bank monetization path: Amazon Associates with gift card payout.
+This site is built for a no-bank monetization path: Amazon Associates with gift
+card payout where available.
 
 ## What I already prepared
 
-- A publish-ready affiliate mini-site
+- A published affiliate mini-site: https://pagedrop.dev/s/anAh6LZJ/
 - Original guide content
-- Amazon Associate disclosure text
+- Amazon Associate disclosure text and a separate disclosure page
 - Affiliate link builder in `script.js`
 - Product-category pages as search links instead of copied Amazon product images/prices
 
@@ -17,7 +18,7 @@ This site is built for a no-bank monetization path: Amazon Associates with gift 
 3. Choose Amazon Gift Card / Gift Certificate payout if available in your region.
 4. Copy your Associate tag, usually something like `yourtag-20`.
 5. Replace `YOURTAG-20` in `script.js`.
-6. Publish the site.
+6. Re-publish the site to the same PageDrop URL.
 
 ## Why this route fits no bank account
 

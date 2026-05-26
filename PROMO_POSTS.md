@@ -1,35 +1,53 @@
 # Promo Posts
 
-Use only where self-promotion is allowed.
+Use these only where self-promotion is allowed. The best angle is to be useful
+first, especially in handyman, landlord, rental turnover, DIY business, and
+small contractor communities.
+
+Site link: https://pagedrop.dev/s/anAh6LZJ/
 
 ## Short Post
 
-I made a practical buying guide for handymen, repair pros, and rental turnover work. It covers starter tools, drywall/paint basics, rental turnover supplies, and the admin setup for quoting and invoicing.
+I put together a practical buying guide for handyman and small repair work. It
+groups tool purchases by job type instead of random shopping lists: starter
+repair calls, drywall and paint, rental turnover, and quote/invoice setup.
 
-[Add site link]
+https://pagedrop.dev/s/anAh6LZJ/
 
 ## Helpful Group Post
 
-For anyone starting handyman, rental turnover, or small repair work: I put together a simple starter guide that groups tool purchases by job type instead of random shopping lists.
+For anyone starting handyman, rental turnover, or small repair work: buying a
+huge tool bundle is usually not the best first move. I made a simple guide that
+matches tools to the jobs that actually repeat.
 
 It covers:
-- Starter repair calls
-- Drywall patch and paint work
-- Rental turnover maintenance
-- Quote and invoice setup
-- A simple workflow for keeping tool spending connected to paid jobs
+- starter repair calls
+- drywall patch and paint work
+- rental turnover maintenance
+- quote and invoice setup
+- a checklist for keeping tool spending connected to paid jobs
 
-[Add site link]
+Guide: https://pagedrop.dev/s/anAh6LZJ/
 
 ## X / Threads
 
-Built a no-fluff starter guide for handyman side jobs:
-starter repair kit, drywall/paint kit, rental turnover kit, and invoice setup.
+Built a starter guide for handyman side jobs:
 
-[Add site link]
+- starter repair kit
+- drywall and paint kit
+- rental turnover kit
+- quote and invoice setup
+
+The idea is simple: buy the kit that matches the job, not the tool that looks
+cool.
+
+https://pagedrop.dev/s/anAh6LZJ/
 
 ## Reddit-Style Helpful Reply
 
-For a first setup, I would avoid buying a huge bundle. Start with the smallest kit that matches your first paid job: drill/driver, bits, tape measure, level, utility knife, stud finder, anchors, and a storage case. Add drywall/paint supplies only when you actually get patch jobs.
+For a first setup, I would avoid buying a huge bundle. Start with the smallest
+kit that matches your first paid job: drill/driver, bits, tape measure, level,
+utility knife, stud finder, anchors, and a storage case. Add drywall and paint
+supplies only when you actually get patch jobs.
 
-I made a checklist here if useful: [Add site link]
+I made a checklist here if useful: https://pagedrop.dev/s/anAh6LZJ/
