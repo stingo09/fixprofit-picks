@@ -1,4 +1,4 @@
-const AMAZON_ASSOCIATE_TAG = "YOURTAG-20";
+const AMAZON_ASSOCIATE_TAG = "fixprofitpick-20";
 
 function amazonSearchUrl(query) {
   const params = new URLSearchParams({ k: query });
