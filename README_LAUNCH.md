@@ -5,7 +5,8 @@ card payout where available.
 
 ## What I already prepared
 
-- A published affiliate mini-site: https://pagedrop.dev/s/anAh6LZJ/
+- A published affiliate mini-site: https://stingo09.github.io/fixprofit-picks/
+- Backup mirror: https://pagedrop.dev/s/anAh6LZJ/
 - Original guide content
 - Amazon Associate disclosure text and a separate disclosure page
 - Affiliate link builder in `script.js`

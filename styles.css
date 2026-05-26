@@ -281,6 +281,36 @@ td a {
   text-underline-offset: 5px;
 }
 
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 22px;
+}
+
+.guide-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 26px 0;
+}
+
+.guide-list a,
+.note-box {
+  display: block;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--white);
+  color: var(--deep);
+  font-weight: 900;
+}
+
+.note-box {
+  margin: 24px 0;
+  color: var(--ink);
+  font-weight: 700;
+}
+
 .compare {
   background: var(--white);
   border-top: 1px solid var(--line);
@@ -410,7 +440,8 @@ footer a {
   .intro,
   .kit-card,
   .workflow,
-  .trust-band {
+  .trust-band,
+  .guide-list {
     grid-template-columns: 1fr;
   }
 
