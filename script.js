@@ -1,10 +1,10 @@
 const AMAZON_ASSOCIATE_TAG = "YOURTAG-20";
 
 function amazonSearchUrl(query) {
-  const params = new URLSearchParams({
-    k: query,
-    tag: AMAZON_ASSOCIATE_TAG,
-  });
+  const params = new URLSearchParams({ k: query });
+  if (AMAZON_ASSOCIATE_TAG && !AMAZON_ASSOCIATE_TAG.startsWith("YOUR")) {
+    params.set("tag", AMAZON_ASSOCIATE_TAG);
+  }
   return `https://www.amazon.com/s?${params.toString()}`;
 }
 
